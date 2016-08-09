@@ -1,0 +1,8 @@
+DENY:matthew:file1.txt
+PERMIT::file1.txt
+DENY::file2.txt
+PERMIT:frank:file3.txt
+DENY::file3.txt
+PERMIT:eugene:file4.txt
+PERMIT:hakner:file4.txt
+DENY::file4.txt
