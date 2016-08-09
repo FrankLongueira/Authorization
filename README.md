@@ -1,7 +1,4 @@
 # Authorization
-Name: Frank Longueira
-School: The Cooper Union for The Advancment of Science & Art
 Course: Computer Security (ECE 305)
 
-This is a Python program that allows only authorized users to access a database of files. The users that are allowed to access the database
-are located in the "users.txt" file and the permissions for each user can be found in the "auth.txt"
+This is a Python program that allows only authorized users to access a database of files. The users that are allowed to access the database are located in the "users.txt" file and the permissions for each user can be found in the "auth.txt"
